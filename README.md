@@ -3,6 +3,9 @@ A simple screenshot application written in VB.net for Window sreenshots
 
 <img src="https://raw.githubusercontent.com/tobychui/Pixal-Shot/master/2018-03-16_18-41-36.png">
 
+## Download
+See the file with filename "PixelShot4.exe" in the filelist above? Just download that and double click to launch.
+
 ## This program is as simple as it looks like
 Just double click the exe under /ScreenShotCapture/bin/debug/PixelShot4.exe, then you are ready to go.
 
