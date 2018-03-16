@@ -1,0 +1,146 @@
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\bin\Debug\ScreenShotCapture.exe
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\bin\Debug\ScreenShotCapture.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\bin\Debug\ScreenShotCapture.xml
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\obj\Debug\ScreenShotCapture.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\obj\Debug\ScreenShotCapture.exe
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\obj\Debug\ScreenShotCapture.xml
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\obj\Debug\ScreenShotCapture.pdb
+C:\Users\user\AppData\Local\Temporary Projects\ScreenShotCapture\obj\Debug\ScreenShotCapture.MainForm.resources
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe.config
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.pdb
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.xml
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.ConfirmBox.resources
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.MainForm.resources
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Resources.resources
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Selector.resources
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Setting.resources
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.exe
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.xml
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.pdb
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe.config
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.exe
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.xml
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.pdb
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.pdb
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.xml
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.ConfirmBox.resources
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.MainForm.resources
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Resources.resources
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Selector.resources
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Setting.resources
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe.manifest
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.application
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.exe.manifest
+C:\Users\Toby\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.application
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe.manifest
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.application
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.exe.manifest
+C:\Users\user\Desktop\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.application
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe.config
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.exe
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.xml
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.pdb
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe.manifest
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.application
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.pdb
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.xml
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.ConfirmBox.resources
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.MainForm.resources
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Resources.resources
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Selector.resources
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Setting.resources
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.exe.manifest
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.application
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.PassiveShot.resources
+C:\Users\user\Desktop\WTC\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.DisplayMode.resources
+D:\Invention\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe.config
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.exe
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.xml
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.pdb
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbprojResolveAssemblyReference.cache
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.ConfirmBox.resources
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.DisplayMode.resources
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.MainForm.resources
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Resources.resources
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.PassiveShot.resources
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Selector.resources
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Setting.resources
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbproj.GenerateResource.Cache
+D:\Invention\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe.manifest
+D:\Invention\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.application
+D:\Invention\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.exe
+D:\Invention\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.pdb
+D:\Invention\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot.xml
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.exe.manifest
+D:\Invention\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot.application
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe.config
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe.manifest
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.application
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.pdb
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.xml
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.ConfirmBox.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.DisplayMode.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.MainForm.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Resources.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.PassiveShot.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Selector.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Setting.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.exe.manifest
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.application
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.exe
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.xml
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.pdb
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe.config
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.exe
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.xml
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.pdb
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe.manifest
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.application
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.pdb
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.xml
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbprojResolveAssemblyReference.cache
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.ConfirmBox.resources
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.DisplayMode.resources
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.MainForm.resources
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Resources.resources
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.PassiveShot.resources
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Selector.resources
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Setting.resources
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbproj.GenerateResource.Cache
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.exe.manifest
+C:\Users\Toby Chui\Desktop\Project\PixalShot\PixalShot4\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.application
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe.config
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.exe
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.xml
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.pdb
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe.manifest
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.application
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.exe
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.pdb
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\bin\Debug\PixelShot4.xml
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbprojResolveAssemblyReference.cache
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.ConfirmBox.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.DisplayMode.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.MainForm.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Resources.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.PassiveShot.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Selector.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot_IMS.Setting.resources
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\ScreenShotCapture.vbproj.GenerateResource.Cache
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.exe.manifest
+C:\Users\Toby\Desktop\Project\PixalShot\PixalShot4_1\ScreenShotCapture\ScreenShotCapture\obj\Debug\PixelShot4.application
