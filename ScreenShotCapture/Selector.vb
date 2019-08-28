@@ -9,10 +9,27 @@
     Private Sub Selector_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Me.Width = MainForm.getTotalWidth()
         screenWidth = Me.Width
-        Me.Height = screenHeight + GetScreenOffsets()
+        Me.Height = MainForm.getGreatestHeight()
         Me.Left = 0
-        Me.Top = 0 - GetScreenOffsets()
+        Me.Top = 0 + getLowestTop()
     End Sub
+
+    Public Function getLowestTop()
+        Dim lowestTop As Integer = 0
+        Dim numberofmonitors As Integer = Screen.AllScreens.Length
+        If numberofmonitors > 1 Then
+            Dim i = 0
+            While i < numberofmonitors
+                Dim thistop = Screen.AllScreens(i).Bounds.Top
+                If (thistop < lowestTop) Then
+                    lowestTop = thistop
+                End If
+                i = i + 1
+            End While
+        End If
+
+        Return lowestTop
+    End Function
     Public Function GetScreenOffsets()
         Dim GreatestHeight As Integer = MainForm.getGreatestHeight()
         If GreatestHeight <> screenHeight Then
@@ -29,10 +46,12 @@
         End If
     End Sub
 
+    Dim startpt As Point = New Point(0, 0)
     Private Sub Selector_MouseDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles MyBase.MouseDown
         mouseSelecting = True
         mlsx = e.X
         mlsy = e.Y
+        startpt = New Point(e.X, e.Y + (MainForm.getGreatestHeight()) - screenHeight + getLowestTop())
     End Sub
 
     Private Sub Selector_MouseMove(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles MyBase.MouseMove
@@ -47,7 +66,18 @@
         mley = e.Y
         Me.TopMost = False
         ConfirmBox.Show()
-        ConfirmBox.SetLocation(e.X, e.Y)
+
+        Dim px As Integer = startpt.X
+        Dim py As Integer = startpt.Y
+        If e.X < startpt.X Then
+            px = px - 150
+        End If
+
+        If e.Y < startpt.Y Then
+            py = py - 40
+        End If
+
+        ConfirmBox.SetLocation(px, py)
     End Sub
 
 
@@ -79,7 +109,7 @@
     Public Sub SaveCapture()
         Dim rrr As Double = My.Settings.ScreenSoomRatio
         Me.Hide()
-        MainForm.ScreenCapture(Int(mlsx * rrr), Int(mlsy * rrr), Int(mlex * rrr), Int(mley * rrr))
+        MainForm.ScreenCapture(Int(mlsx * rrr), Int((mlsy + getLowestTop()) * rrr), Int(mlex * rrr), Int((mley + getLowestTop()) * rrr))
         Me.Close()
     End Sub
 End Class

@@ -21,7 +21,7 @@
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
     <ManifestCertificateThumbprint>684DA74313F22D1AF2759C56FC1E5A064015C6C3</ManifestCertificateThumbprint>
     <ManifestKeyFile>ScreenShotCapture_TemporaryKey.pfx</ManifestKeyFile>
-    <GenerateManifests>true</GenerateManifests>
+    <GenerateManifests>false</GenerateManifests>
     <SignManifests>false</SignManifests>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <FileUpgradeFlags>
@@ -62,6 +62,9 @@
     <OutputPath>bin\Release\</OutputPath>
     <DocumentationFile>PixelShot4.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

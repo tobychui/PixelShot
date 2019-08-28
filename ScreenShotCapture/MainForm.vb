@@ -60,11 +60,12 @@ Public Class MainForm
         If y2 > getTotalWidth() Then
             y2 = getTotalWidth()
         End If
-        Dim corner As New Point(0, 0)
+        Dim corner As New Point(0, Selector.getLowestTop())
         Dim ss As New Size(getTotalWidth(), getGreatestHeight())
         Dim bounds As New Rectangle(corner, ss)
         Dim screenshot As System.Drawing.Bitmap
         Dim graph As Graphics
+        Dim lowestTop = Selector.getLowestTop()
         'bounds = Screen.PrimaryScreen.Bounds
         Dim w As Integer = x2 - x1
         If w < 0 Then
@@ -87,12 +88,14 @@ Public Class MainForm
         Else
             t = y2
         End If
-        If Selector.GetScreenOffsets() = 0 Then
-            graph.CopyFromScreen(0, 0, 0 - s, 0 - t, bounds.Size, CopyPixelOperation.SourceCopy)
-        Else
-            Dim offsets = Selector.GetScreenOffsets()
-            graph.CopyFromScreen(0, 0 - offsets, 0 - s, 0 - t, bounds.Size, CopyPixelOperation.SourceCopy)
-        End If
+        graph.CopyFromScreen(0, 0 + lowestTop, 0 - s, 0 - t + lowestTop, bounds.Size, CopyPixelOperation.SourceCopy)
+
+        ' If Selector.GetScreenOffsets() = 0 Then
+        'graph.CopyFromScreen(0, 0, 0 - s, 0 - t, bounds.Size, CopyPixelOperation.SourceCopy)
+        ' Else
+        'Dim offsets = Selector.GetScreenOffsets()
+        'graph.CopyFromScreen(0, 0 - offsets, 0 - s, 0 - t, bounds.Size, CopyPixelOperation.SourceCopy)
+        'End If
 
         If My.Settings.SaveLocation = Nothing Then
             My.Settings.SaveLocation = desktop & "\"
@@ -109,11 +112,12 @@ Public Class MainForm
         If y2 > getTotalWidth() Then
             y2 = getTotalWidth()
         End If
-        Dim corner As New Point(0, 0)
-        Dim ss As New Size(getTotalWidth(), screenHeight)
+        Dim corner As New Point(0, Selector.getLowestTop())
+        Dim ss As New Size(getTotalWidth(), getGreatestHeight())
         Dim bounds As New Rectangle(corner, ss)
         Dim screenshot As System.Drawing.Bitmap
         Dim graph As Graphics
+        Dim lowestTop = Selector.getLowestTop()
         'bounds = Screen.PrimaryScreen.Bounds
         Dim w As Integer = x2 - x1
         If w < 0 Then
@@ -136,7 +140,8 @@ Public Class MainForm
         Else
             t = y2
         End If
-        graph.CopyFromScreen(0, 0, 0 - s, 0 - t, bounds.Size, CopyPixelOperation.SourceCopy)
+        graph.CopyFromScreen(0, 0 + lowestTop, 0 - s, 0 - t + lowestTop, bounds.Size, CopyPixelOperation.SourceCopy)
+        'graph.CopyFromScreen(0, 0, 0 - s, 0 - t, bounds.Size, CopyPixelOperation.SourceCopy)
         Return screenshot
     End Function
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
@@ -145,8 +150,6 @@ Public Class MainForm
             Me.Hide()
         Else
             PassiveShot.LoadScreenShot(PassiveScreenShot(0, 0, screenWidth, screenHeight))
-
-
         End If
 
     End Sub

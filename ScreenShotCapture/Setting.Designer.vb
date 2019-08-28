@@ -58,7 +58,7 @@ Partial Class Setting
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("PMingLiU", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
+        Me.Label1.Font = New System.Drawing.Font("新細明體", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
         Me.Label1.Location = New System.Drawing.Point(12, 12)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(67, 15)
@@ -106,11 +106,12 @@ Partial Class Setting
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(335, 262)
+        Me.Label2.Font = New System.Drawing.Font("新細明體", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
+        Me.Label2.Location = New System.Drawing.Point(432, 254)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(207, 12)
+        Me.Label2.Size = New System.Drawing.Size(97, 24)
         Me.Label2.TabIndex = 6
-        Me.Label2.Text = "Program Developed by TC@IMUS_Project"
+        Me.Label2.Text = "PixelShot"
         '
         'Label3
         '
@@ -149,12 +150,12 @@ Partial Class Setting
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(474, 278)
+        Me.Label5.Location = New System.Drawing.Point(459, 278)
         Me.Label5.Margin = New System.Windows.Forms.Padding(1, 0, 1, 0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(68, 12)
         Me.Label5.TabIndex = 10
-        Me.Label5.Text = "Version 4.1.2"
+        Me.Label5.Text = "Version 5.0.2"
         '
         'TrackBar1
         '
