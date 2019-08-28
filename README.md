@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/tobychui/PixelShot/master/images/banner.png">
 
-# Pixal-Shot
+# PixelShot
 
 <img src="https://img.shields.io/badge/License-MIT-%23207de5.svg"> <img src="https://img.shields.io/badge/Build-Portable-blue.svg"> <img src="https://img.shields.io/badge/Made%20in-Hong%20Kong-orange.svg">
 
